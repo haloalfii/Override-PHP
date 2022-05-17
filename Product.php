@@ -1,5 +1,6 @@
 <?php
 //Alfian
+//Fery
 class product
 {
     private $name;
