@@ -1,4 +1,5 @@
 <?php
+//Alfian
 class product
 {
     private $name;
